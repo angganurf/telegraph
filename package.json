@@ -23,5 +23,5 @@
     "deploy": "gh-pages -d build"
   },
   "homepage": "https://maskzh.github.io/telegraph",
-  "proxy": "https://purchase.jkbsapp.com"
+  "proxy": "https://dc.smartproxy.com:10000@sp0fq356ss:d8uFy3m8xUe4cO_Vgc"
 }
